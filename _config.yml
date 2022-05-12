@@ -21,7 +21,7 @@ title: "Backlog RPGs "
 
 description: >-                        # used by seo meta and the atom feed
   Reviews of older RPGs, released for
-  Consoles and Computers. Updated every two weeks.
+  Consoles and Computers. Updated every month.
 
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://backlogrpgs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -116,3 +116,5 @@ paginate_path: /page:num/
 # Taxonomy pages
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
+
+excerpt_separator: <!--more-->

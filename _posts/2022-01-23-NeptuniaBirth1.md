@@ -3,7 +3,7 @@ layout: post
 title: Hyperdimension Neptunia Re;Birth1 - for people of culture
 date: 2022-01-23 23:50:00
 categories: Pc
-tags: 2015 JRPG humor anime
+tags: 2015 JRPG humor anime turn-based
 ---
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1642682242/neprebirth1/png/nepreb1banner.png" title="Hyperdimension Neptunia Re;Birth1">
 	<picture>
@@ -11,12 +11,13 @@ tags: 2015 JRPG humor anime
     <img src="https://res.cloudinary.com/backlogrpgs/image/upload/v1642682248/neprebirth1/jpg/nepreb1banner.jpg" alt="Banner of the post, showing artwork of Neptunia, Compa and IF with the game's title, Hyperdimension Neptunia Re;Birth1"  style="width:100%;border:4px solid #7b7d7d;">
 </picture></a>
 
-<h2>Introduction</h2>
-
 Hyperdimension Neptunia Re;Birth1 is one of those weird Japanese games. It has a dating sim interface, ludicrous worldbuilding, anime-style underage cute girls, some scenes of pure fan service and a turn-based battle system. If you’re on this type of thing, continue on reading, if not, you’ve been warned. 
 
 
 The game was originally released on the PlayStation Vita in October 2013, and later on PCs in January 2015. It's a remake of Hyperdimension Neptunia, a PlayStation 3 exclusive from 2010. While previously developed by Idea Factory and Compile Heart, Neptunia’s remakes were created by Felistella. From what I’ve found, Re;Birth1’s story is somewhat different from the original, with only a few central plot points preserved. It also incorporates mechanics from its sequels, making it a nice starting point for new players.
+<!--more-->
+
+
 <hr>
 <h2>The Narrative</h2>
 

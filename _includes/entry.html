@@ -26,6 +26,7 @@
     <div class="entry-excerpt p-summary">
       {% if entry.excerpt %}
         {{ entry.excerpt | markdownify }}
+		<p><a href="{{ entry.url | relative_url }}">Continue reading...</a></p>
       {% endif %}
     </div>
   {% endunless %}
@@ -36,3 +37,6 @@
     </footer>
   {% endif %}
 </article>
+
+
+

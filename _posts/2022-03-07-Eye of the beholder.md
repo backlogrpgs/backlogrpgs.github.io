@@ -3,7 +3,7 @@ layout: post
 title: "Eye of the Beholder - Let's play Mazes and Monsters"
 date: 2022-03-07 03:02:00
 categories: Pc
-tags: 1991	dungeons-&-dragons dungeon-crawler real-time
+tags: 1991	dungeons-&-dragons dungeon-crawler real-time MS-DOS
 ---
 
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1646461753/eob1/png/eob1banner.png" title="Eye of the Beholder">
@@ -12,13 +12,12 @@ tags: 1991	dungeons-&-dragons dungeon-crawler real-time
     <img src="" alt="https://res.cloudinary.com/backlogrpgs/image/upload/v1646461784/eob1/jpg/eob1banner.jpg"  style="width:100%;border:4px solid #7b7d7d;">
 </picture></a>
 
-<h2>Introduction</h2>
-
 Eye of the Beholder is a first-person dungeon crawler released in 1991 for MS-DOS. It was ported to the Amiga, the Sega CD and the SNES. The game uses the rules of Advanced Dungeons & Dragons 2nd Edition and was developed by Westwood Studios and published by TSR, the creators of the D&D before being acquired by Wizards of the Coast. As for Westwood Studios, besides creating many titles with the AD&D license, they are also the developers of Dune II and the creators of the Command and Conquer series. 
 
 Part of a trilogy, Eye of the Beholder was followed by Eye of the Beholder II: The Legend of Darkmoon and Eye of the Beholder III: Assault on Myth Drannor (which wasn’t developed by Westwood Studios).
 I played the GOG edition of the game. It comes with the Manual and a Clue Book, the former with 44 pages and the latter with 75. I miss the times when manuals had complementary content and good artwork, but I’m also glad that companion books aren’t required anymore because games became less cryptic.
 
+<!--more-->
 
 Besides these two books, the game should have come with a Data Sheet, since it’s the only place where you can find the keyboard commands. It seems the people at GOG thought players would only use their mouses. Fortunately, some kind users on the GOG forums [scanned it](https://www.gog.com/forum/forgotten_realms_collection/eye_of_the_beholder_data_card_and_sewer_maps)
  for our benefit.

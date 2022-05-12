@@ -3,7 +3,7 @@ layout: post
 title: "The Witcher — a bit of a letdown"
 date: 2021-12-15 12:02:00
 categories: Pc
-tags: 2007 witcher
+tags: 2007 witcher real-time
 ---
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1639317083/witcher/banner_knb7m2.png" title="The Witcher">
 	<picture>
@@ -11,13 +11,10 @@ tags: 2007 witcher
     <img src="https://res.cloudinary.com/backlogrpgs/image/upload/v1639377624/witcher/banner_uyhlrf.jpg" alt="Banner of the post, showing artwork of Gerald fighting enemies alongside his werewolf friend."  style="width:100%;border:4px solid #7b7d7d;">
 </picture></a>
 
-
-<h2>Introduction</h2>
-
 In hindsight, it’s easy to think about 2007 as one of gaming’s greatest years, thanks to titles like Bioshock, Assassin’s Creed, Mass Effect, Portal, Mario Galaxy, Uncharted, Halo 3 and many others. It was a rough year for developers, who had to fight for the consumers’ attention. Amidst all these great releases, CD Projekt Red, at the time an unknown Polish company that only worked on translating games, released their very first title, The Witcher. Nowadays the franchise is widely known even by the general public, but for a lot of people this game was their first contact with the series.
 
 The Witcher is an RPG originally released in October 2007, exclusively for PCs. It was inspired by The Witcher novels written by Polish author Andrzej Sapkowski. With “inspired” I meant that the game isn’t a straight adaptation of the books, but functions as a sequel to their story.
-
+<!--more-->
 It's not mandatory to read the books to enjoy the game, as necessary information is always given to the player. But it's neat to understand references to past events and to meet memorable characters from the novels.
 
 The game saw a rerelease in September 2008, as The Witcher Enhanced Edition. It featured a lot of fixes for bugs, loading times, animations, etc. It also came with a lot of collectible goods, like a map, a strategy guide, a making-of DVD, and the game’s soundtrack. This is the version being sold on digital stores nowadays. But let's talk about the game's content.

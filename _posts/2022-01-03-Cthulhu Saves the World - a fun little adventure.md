@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: Cthulhu Saves the World - a fun little adventure
 date: 2022-01-03 14:00:00
 categories: Pc
-tags: 2010 JRPG humor
+tags: 2010 JRPG humor lovecraftian turn-based
 ---
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1640969465/cstw/png/banner.png" title="Cthulhu Saves the World">
 	<picture>
@@ -11,15 +11,16 @@ tags: 2010 JRPG humor
     <img src="https://res.cloudinary.com/backlogrpgs/image/upload/v1640969820/cstw/jpg/banner.jpg" alt="Banner of the post, showing artwork of Cthulhu and the game's title, Cthulhu Saves the World."  style="width:100%;border:4px solid #7b7d7d;">
 </picture></a>
 
-<h2>Introduction</h2>
-
-**Before starting: If the game crashes during the first cutscene, go to the end of the review for a solution[^1].** 
 
 Who would have imagined that mixing 16-bit JRPG mechanics and aesthetics, self-referential humor, fourth wall breaking and a Great Old One from Lovecraftian horror would be a recipe for success? Robert Boyd and William Stiernberg, founders of Zeboyd Games, thought it was a great concept and the result is Cthulhu Saves the World, a more modern take on JRPGs that doesn’t take itself seriously.
 
 The game was originally released as a digital title for the Xbox 360 in December 2010. Not long after, the developers ran a Kickstarter campaign to raise funds to port it to PC and to add some cut content. The campaign was very successful, and the enhanced port was released on Steam in July 2011. It is called Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD Premium Enhanced Game of the Year Collector’s Edition. The new content and improvements also came to the Xbox 360 through an update.
 
+<!--more-->
+
 Some of the most interesting additions were the Cthulhu’s Angels game mode, a director’s commentary, character art and expanded dialogues.
+
+**A public announcement: If the game crashes during the first cutscene, go to the end of the review for a solution[^1].** 
 
 <hr>
 <h2>The Narrative</h2>

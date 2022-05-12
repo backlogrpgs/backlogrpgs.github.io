@@ -3,7 +3,7 @@ layout: post
 title: "Peret em Heru For the Prisoners"
 date: 2022-02-10 20:32:00
 categories: Pc
-tags: 1996 rpg-maker egypt independent horror
+tags: 1996 rpg-maker egypt independent horror turn-based
 ---
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1644377320/peret/png/peretbanner.png" title="Peret em heru: for the prisioners">
 	<picture>
@@ -11,15 +11,12 @@ tags: 1996 rpg-maker egypt independent horror
     <img src="https://res.cloudinary.com/backlogrpgs/image/upload/v1644376793/peret/jpg/peretbanner.jpg" alt="Banner artwork for the game Peret em Heru"  style="width:100%;border:4px solid #7b7d7d;">
 </picture></a>
 
-## Introduction
 
-Here’s a short review for a fun little game. Peret em Heru: for the prisoners (or Shūjin e no Pert-em-Hru 囚人へのペル・エム・フル) is an independent game released on May 31, 1998. It was developed on [RPG Maker 98 Dante II](https://en.wikipedia.org/wiki/RPG_Maker) by Makoto Yaotani, under the pseudonym Makoto Serise, with music composed by Kei Mizuho. According to Wikipedia[^1], it won the Platinum Award for the August rendition of the “Internet Contest Park”, held by ASCII on a monthly basis from July 1998 to June 2002.
+Here’s a short review for a fun little game. Peret em Heru: for the prisoners (or Shūjin e no Pert-em-Hru 囚人へのペル・エム・フル) is an independent game released on May 31, 1998. It was developed on [RPG Maker 98 Dante II](https://en.wikipedia.org/wiki/RPG_Maker) by Makoto Yaotani, under the pseudonym Makoto Serise, with music composed by Kei Mizuho. According to [Wikipedia](https://en.wikipedia.org/wiki/Sh%C5%ABjin_e_no_Pert-em-Hru), it won the Platinum Award for the August rendition of the “Internet Contest Park”, held by ASCII on a monthly basis from July 1998 to June 2002.
 
-[^1]:[Wikipedia article](https://en.wikipedia.org/wiki/Sh%C5%ABjin_e_no_Pert-em-Hru).
+On September 26, 2014, the fan translation group [Memories of Fear](https://memoriesoffear.jcink.net) released an English translation for the game. You can download both on their [website](https://memoriesoffear.jcink.net/index.php?showtopic=61).
 
-On September 26, 2014, the fan translation group [Memories of Fear](https://memoriesoffear.jcink.net) released an English translation for the game. You can download both on their website[^2].
-
-[^2]:[Memories of fear's page for the game.](https://memoriesoffear.jcink.net/index.php?showtopic=61)
+<!--more-->
 
 <hr>
 ## The Narrative
