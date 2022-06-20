@@ -2,7 +2,7 @@
 layout: post
 title: "Saturday Morning RPG – Down memory lane"
 date: 2022-06-19 19:02:00
-categories: Pc Xbox PlayStation_4 Nintendo_Switch PlayStation_Vita
+categories: Pc PlayStation_4 Nintendo_Switch PlayStation_Vita Android iOS
 tags: 2012 JRPG humor turn-based nostalgia
 ---
 
