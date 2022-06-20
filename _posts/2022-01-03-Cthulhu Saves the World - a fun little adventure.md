@@ -2,8 +2,8 @@
 layout: post
 title: Cthulhu Saves the World - a fun little adventure
 date: 2022-01-03 14:00:00
-categories: Pc
-tags: 2010 JRPG humor lovecraftian turn-based
+categories: Pc  Xbox_360
+tags: 2010 JRPG turn-based lovecraftian humor
 ---
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1640969465/cstw/png/banner.png" title="Cthulhu Saves the World">
 	<picture>

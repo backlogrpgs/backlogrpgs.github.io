@@ -3,7 +3,7 @@ layout: post
 title: "Saturday Morning RPG – Down memory lane"
 date: 2022-06-19 19:02:00
 categories: Pc PlayStation_4 Nintendo_Switch PlayStation_Vita Android iOS
-tags: 2012 JRPG humor turn-based nostalgia
+tags: 2012 JRPG turn-based contemporary humor nostalgia
 ---
 
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1655666926/satmorpg/png/satmorrpgbanner.png" title="Saturday Morning RPG">
