@@ -52,4 +52,13 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8726247762986874"
      crossorigin="anonymous"></script>
   
+  
+  
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include google-analytics.html %}
+{% endif %}
+  
+  
+  
+  
 </head>
