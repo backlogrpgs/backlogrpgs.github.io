@@ -2,7 +2,7 @@
 layout: post
 title: "The Witcher — a bit of a letdown"
 date: 2021-12-15 12:02:00
-categories: Pc
+categories: PC
 tags: 2007 CRPG real-time fantasy witcher
 ---
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1639317083/witcher/banner_knb7m2.png" title="The Witcher">

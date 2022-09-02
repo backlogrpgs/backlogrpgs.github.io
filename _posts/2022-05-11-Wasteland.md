@@ -2,7 +2,7 @@
 layout: post 
 title: "Wasteland - Starting life in a post-nuclear world"
 date: 2022-05-11 12:02:00 
-categories: Pc
+categories: PC
 tags: 1988 CRPG turn-based post-apocalyptic MS-DOS
 ---
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1652323979/wasteland/png/banner.png" title="Wasteland">

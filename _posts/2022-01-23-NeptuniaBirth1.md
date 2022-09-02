@@ -2,7 +2,7 @@
 layout: post
 title: Hyperdimension Neptunia Re;Birth1 - for people of culture
 date: 2022-01-23 23:50:00
-categories: Pc PlayStation_Vita
+categories: PC
 tags: 2015 JRPG turn-based sci-fi humor fan-service
 ---
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1642682242/neprebirth1/png/nepreb1banner.png" title="Hyperdimension Neptunia Re;Birth1">

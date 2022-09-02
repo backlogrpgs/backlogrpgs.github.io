@@ -2,7 +2,7 @@
 layout: post
 title: "Peret em Heru For the Prisoners"
 date: 2022-02-10 20:32:00
-categories: Pc
+categories: PC
 tags: 1996 JRPG turn-based horror rpg-maker independent
 ---
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1644377320/peret/png/peretbanner.png" title="Peret em heru: for the prisioners">

@@ -2,15 +2,22 @@
 layout: post 
 title: "FM Towns' Ultima 1 - nothing to see here"
 date: 2022-09-01 10:02:00 
-categories: 
+categories: FM_Towns
 tags: 1991 CRPG turn-based dungeon-crawler fantasy ultima FM Towns 
 ---
-## Introduction
+
+<a target="_blank" href="" title="https://res.cloudinary.com/backlogrpgs/image/upload/v1662133653/ultima1fmt/png/ul1banner.png">
+	<picture>
+    <source srcset="https://res.cloudinary.com/backlogrpgs/image/upload/v1662133540/ultima1fmt/ul1banner.webp">
+    <img src="https://res.cloudinary.com/backlogrpgs/image/upload/v1662133591/ultima1fmt/jpg/ul1banner.jpg" alt="Banner image for the game Ultima 1: The First Age of Darkness for FM Towns"  style="width:100%;border:4px solid #7b7d7d;">
+</picture></a>
+
 I confess: I have a special place in my heart for Japanese games from the ’80s and early ’90s. I just love their anime like aesthetics and different take on some genres. Usually, I must wait for an unofficial translation or play those that received an international release, but fortunately for us today’s game has an official English localization: Ultima I: the first age of darkness, released in 1990 by Fujitsu, alongside Ultima 2 and 3 on the “Ultima Trilogy I II III” for the FM Towns line of computers. 
 
 The FM Towns is a personal computer produced by Fujitsu from 1989 to 1997. It was commercialized only in Japan and had a few revisions with different hardware, including a console variant, the FM Towns Marty, arguably the first 32-bit console. For the time, they were good machines and very capable on the multimedia and gaming aspects.
 
 So, is this release a graphical update or a true overhaul? Let's find out.
+<!--more-->
 
 <div class="adiv">  
 <figure>  
@@ -27,7 +34,7 @@ Picture taken from the [IPSJ Computer Museum website](http://museum.ipsj.or.jp/e
 
 Unfortunately, even if I want to have one of these machines at my disposal, that's not feasible, so I decided to go through the emulation route. Initially I tried the machine's most well-known emulator, Unz. Thanks to its overwhelming interface, I preferred to read some writeups on how to configure it before playing. I found a very good [one here]( https://gekk.info/articles/fmtowns.html). 
 
-However as I started the game, it had a few graphical problems right on the menu screen, what is unsurprisingly, as the author seems to have abandoned the project more than a decade ago. So I decided to use [Tsugaru]( https://github.com/captainys/TOWNSEMU), a newer emulator with a very active author behind it. I could’ve also tried MAME, but I didn’t feel like setting it up for this game.
+However as I started the game, it had a few graphical problems right on the menu screen, what is unsurprisingly, as the author seems to have abandoned the project more than a decade ago. So I decided to use [Tsugaru]( https://github.com/captainys/TOWNSEMU), a newer emulator with a very active author behind it. I could’ve also tried MAME, but I didn’t feel like [setting it up](https://wiki.mamedev.org/index.php/Driver:FMTowns) for this game.
 
 My experience with Tsugaru was seamless, as I completed Ultima I without any problems or jarring sound or visual glitches. Honestly, the only visual glitch I think I’ve encountered was invisible force fields inside dungeons. I believe it’s an emulation issue since the original game shows them, but I can’t be certain.
 

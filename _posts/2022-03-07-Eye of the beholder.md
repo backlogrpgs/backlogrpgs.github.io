@@ -2,7 +2,7 @@
 layout: post
 title: "Eye of the Beholder - Let's play Mazes and Monsters"
 date: 2022-03-07 03:02:00
-categories: Pc
+categories: PC
 tags: 1991 CRPG dungeon-crawler real-time fantasy dungeons-&-dragons MS-DOS
 ---
 
