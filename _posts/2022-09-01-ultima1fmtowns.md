@@ -16,7 +16,7 @@ I confess: I have a special place in my heart for Japanese games from the ’80s
 
 The FM Towns is a personal computer produced by Fujitsu from 1989 to 1997. It was commercialized only in Japan and had a few revisions with different hardware, including a console variant, the FM Towns Marty, arguably the first 32-bit console. For the time, they were good machines and very capable on the multimedia and gaming aspects.
 
-So, is this release a graphical update or a true overhaul? Let's find out.
+Interesting Japanese computers aside, is this release a graphical update or a true overhaul? Let's find out.
 <!--more-->
 
 <div class="adiv">  
