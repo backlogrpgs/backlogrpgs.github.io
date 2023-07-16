@@ -13,7 +13,7 @@ tags: 2017 JRPG real-time-action fantasy third-person Ys
 
 ## Introduction
 
-This month's game is a more current title rather than the next iteration of a [42-year-old franchise](Ultima1.md).
+This month's game is a more current title rather than the next iteration of a [42-year-old franchise](ultima1).
 
 Cosmic Star Heroine is a JRPG created by Zeboyd Games, a two-man studio that also created [Cthulhu Saves the World](Cthulhu%20Saves%20the%20World%20-%20a%20fun%20little%20adventure.md). The game was first released on PC and PlayStation 4 on April 11, 2017. It was ported to the PlayStation Vita and Nintendo Switch a year later, with releases on April 24, 2018, and August 14, 2018, respectively. Finally, Google Stadia received its own port of the game on April 1, 2021.
 
