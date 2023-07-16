@@ -15,13 +15,15 @@ tags: 2017 JRPG real-time-action fantasy third-person Ys
 
 This month's game is a more current title rather than the next iteration of a [42-year-old franchise](Ultima1.md).
 
-Cosmic Star Heroine is a JRPG created by Zeboyd Games, a two-man studio that also created [Cthulhu Saves the World](https://backlogrpgs.github.io/Cthulhu-Saves-the-World-a-fun-little-adventure/). The game was first released on PC and PlayStation 4 on April 11, 2017. It was ported to the PlayStation Vita and Nintendo Switch a year later, with releases on April 24, 2018, and August 14, 2018, respectively. Finally, Google Stadia received its own port of the game on April 1, 2021.
+Cosmic Star Heroine is a JRPG created by Zeboyd Games, a two-man studio that also created [Cthulhu Saves the World](Cthulhu%20Saves%20the%20World%20-%20a%20fun%20little%20adventure.md). The game was first released on PC and PlayStation 4 on April 11, 2017. It was ported to the PlayStation Vita and Nintendo Switch a year later, with releases on April 24, 2018, and August 14, 2018, respectively. Finally, Google Stadia received its own port of the game on April 1, 2021.
 
 Development time was longer than you normally see from Zeboyd Games, taking four years instead of a few months. To help finance the game's production, the makers launched a successful [Kickstarter campaign](https://www.kickstarter.com/projects/1596638143/cosmic-star-heroine-sci-fi-spy-rpg-for-pc-mac-ps4/description) on October 1, 2013, which lasted 30 days. It earned a total of $132,689 out of a $100,000 goal.
 
 The game scored good reviews during its launch, with a more enthusiastic response from the indie and RPG communities and publications.
 
 So, is it a good throwback to a bygone JRPG era? Let's find out.
+
+<!--more-->
 
 <hr>
 
@@ -88,6 +90,10 @@ Similarly to the Suikoden series, you can find and interact with all recruited c
 
 <div class="adiv"> <a href="https://res.cloudinary.com/backlogrpgs/image/upload/v1689445934/cosmicsh/cshss09.webp" title="Alyssa talks to Z'xorv" data-lightbox="zxorv"> <img src="https://res.cloudinary.com/backlogrpgs/image/upload/v1689445934/cosmicsh/cshss09.webp" alt="Alyssa talks to Z'xorv, another playable character" style="border: 4px solid #7b7d7d;"> </a> </div>
 <p></p>
+
+When you begin a new game you can choose between four difficulties: Tourist, Agent, Heroine and Super-spy. Except during battles, you can modify the difficulty whenever you wish. Only Super-spy offers a good challenge, with Tourist and Agent being ridiculously easy, to the point of enemies dying with only one hit. Heroine is fine, but I ended up playing on the Super-spy difficulty. The battle system shines on this difficulty, as it forces you to experiment and create new strategies. 
+
+ The Heroine difficulty is nice, but I ended myself playing on the Super-spy difficulty. This complexity is highlighted by the fighting system, which drives you to experiment and devise new techniques. 
 
 ### Battle System
 
