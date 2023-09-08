@@ -8,7 +8,7 @@ tags: 2017 JRPG real-time-action fantasy third-person Ys
 ---
 <a href="https://res.cloudinary.com/backlogrpgs/image/upload/v1689470024/cosmicsh/banner.webp" data-lightbox="banner">
   <img class="image" src="https://res.cloudinary.com/backlogrpgs/image/upload/v1689470024/cosmicsh/banner.webp" width="100%" alt="Banner art for Cosmic Star Heroine">
-</a>
+</a><p></p>
 
 
 ## Introduction
